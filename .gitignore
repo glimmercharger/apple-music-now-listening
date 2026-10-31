@@ -1,0 +1,8 @@
+# your tokens and secrets live here - never commit it
+config.json
+
+# created while the script runs
+saved_status.json
+nowplaying.log
+__pycache__/
+.venv/

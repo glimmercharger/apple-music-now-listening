@@ -1,0 +1,8 @@
+{
+  "slack_token": "xoxp-your-slack-user-token",
+  "slack_emoji": ":headphones:",
+  "cloudflare_token": "your-cloudflare-api-token",
+  "worker_name": "nowplaying",
+  "worker_secret": "make-up-a-long-random-string",
+  "worker_url": ""
+}
