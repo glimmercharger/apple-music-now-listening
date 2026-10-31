@@ -1,4 +1,4 @@
-# apple-music-now-listening
+# Apple Music now-listening
 
 | On your website | In your Slack status |
 | :---: | :---: |
