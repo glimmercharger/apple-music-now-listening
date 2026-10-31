@@ -1,8 +1,10 @@
 # apple-music-now-listening
 
-A script that allows your website and your Slack Status to be updated as you listen to Apple Music on the Windows App.
+| On your website | In your Slack status |
+| :---: | :---: |
+| ![A website line reading "currently listening to: Stop The Wedding! by Ashe"](docs/website.png) | ![A Slack profile with the status "Stop The Wedding! – Ashe" and a headphones emoji](docs/slack.png) |
 
-<!-- screenshot goes here, e.g. ![The now playing card](docs/screenshot.png) -->
+A script that allows your website and your Slack Status to be updated as you listen to Apple Music on the Windows App.
 
 - **Slack:** your status becomes `🎧 Song – Artist` while music is playing, and goes back to whatever it was before when you stop.
 - **Your website:** a small "Listening on Apple Music" card with the album art, which updates by itself.
